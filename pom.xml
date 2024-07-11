@@ -9,8 +9,10 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <modules>
+        <module>tictactoe</module>
         <module>parkinglot</module>
         <module>vendingmachine</module>
+        <module>stackoverflow</module>
     </modules>
 
     <properties>
