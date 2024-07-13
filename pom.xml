@@ -13,6 +13,7 @@
         <module>parkinglot</module>
         <module>vendingmachine</module>
         <module>stackoverflow</module>
+        <module>Logger</module>
     </modules>
 
     <properties>
