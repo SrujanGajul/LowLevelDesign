@@ -14,6 +14,7 @@
         <module>vendingmachine</module>
         <module>stackoverflow</module>
         <module>Logger</module>
+        <module>coffeevendingmachine</module>
     </modules>
 
     <properties>
