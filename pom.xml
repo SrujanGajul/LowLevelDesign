@@ -15,6 +15,7 @@
         <module>stackoverflow</module>
         <module>Logger</module>
         <module>coffeevendingmachine</module>
+        <module>trafficcontrolsystem</module>
     </modules>
 
     <properties>
